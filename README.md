@@ -38,4 +38,4 @@ Las fuentes Archivo Black y Open Sans están almacenadas localmente mediante `@f
 
 El proyecto puede consultarse en el siguiente enlace:
 
-[Ver portafolio en GitHub Pages](ENLACE_GITHUB_PAGES)
+[Ver portafolio en GitHub Pages](https://atagudelo.github.io/web_project_portfolio_es/)
